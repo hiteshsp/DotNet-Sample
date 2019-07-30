@@ -4,3 +4,5 @@
 
 /TestApp/bin
 /TestApp/obj/Release/Package/PackageTmp/bin
+.sonarqube
+.vs
